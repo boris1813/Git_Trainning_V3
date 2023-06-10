@@ -1,3 +1,6 @@
 This is Sample File 1 
 
-[[OThe CPSU [Communist Party of the Soviet Union] has fought and will always fight resolutely against such phenomena [inter-ethnic tensions] which are alien to the nature of socialism as chauvinism or nationalism, against any nationalistic aberrations such as, let us say, anti-Semitism or Zionism. We are against tendencies aimed at artificial erosion of national characteristics. But to the same extent, we consider impermissible their artificial exaggeration. It is the sacred duty of the party to educate the working people in the spirit of Soviet patriotism and socialist internationalism, of a proud feeling of belonging to a single great Soviet motherland
+The CPSU [Communist Party of the Soviet Union] has fought and will always fight resolutely against such phenomena [inter-ethnic tensions] which are alien to the nature of socialism as chauvinism or nationalism, against any nationalistic aberrations such as, let us say, anti-Semitism or Zionism. We are against tendencies aimed at artificial erosion of national characteristics. But to the same extent, we consider impermissible their artificial exaggeration. It is the sacred duty of the party to educate the working people in the spirit of Soviet patriotism and socialist internationalism, of a proud feeling of belonging to a single great Soviet motherland
+
+Modification in File 1
+This is Comparison lecture
