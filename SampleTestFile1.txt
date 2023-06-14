@@ -4,3 +4,4 @@ The CPSU [Communist Party of the Soviet Union] has fought and will always fight 
 
 Modification in File 1
 This is Comparison lecture
+This is Stash, Change in File 1
